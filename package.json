@@ -16,6 +16,5 @@
     "dotenv": "^16.4.5",
     "nodemon": "^3.1.0"
   },
-  "module": "type"
-  
+  "type": "module"
 }
